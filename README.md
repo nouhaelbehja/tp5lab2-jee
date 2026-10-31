@@ -65,3 +65,7 @@ La compilation a été vérifiée avec succès avec Java 17. L'exécution de
 connexion MySQL, création de la table, insertion et lecture d'un produit.
 Il n'y a pas de tests automatisés ; ces deux classes sont des programmes à
 lancer manuellement avec MySQL disponible.
+<img width="1379" height="247" alt="Capture d&#39;écran 2026-10-31 130309" src="https://github.com/user-attachments/assets/f0816a90-c31c-4d18-a17e-8e9eaa41f537" />
+<img width="750" height="711" alt="Capture d&#39;écran 2026-10-31 130341" src="https://github.com/user-attachments/assets/cd745917-2ea2-43e6-a277-d254ab5de381" />
+<img width="437" height="363" alt="Capture d&#39;écran 2026-10-31 130357" src="https://github.com/user-attachments/assets/4a33dd59-f5cb-4e94-8129-56b8e665364a" />
+
