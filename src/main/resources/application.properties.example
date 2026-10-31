@@ -1,0 +1,9 @@
+jdbc.driver=com.mysql.cj.jdbc.Driver
+# Configuration pour un serveur MySQL local de TP.
+jdbc.url=jdbc:mysql://localhost:3306/product_db?useSSL=false&serverTimezone=UTC&allowPublicKeyRetrieval=true
+jdbc.username=root
+jdbc.password=
+
+hibernate.dialect=org.hibernate.dialect.MySQL8Dialect
+hibernate.show_sql=true
+hibernate.hbm2ddl.auto=update
